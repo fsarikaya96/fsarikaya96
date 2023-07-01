@@ -8,7 +8,7 @@
 <p align="center" dir="auto">
 <code><img height="75" src="https://raw.githubusercontent.com/fsarikaya96/fsarikaya96/main/assets/php.png" style="max-width: 100%;"/></code> &nbsp;&nbsp;
 <code><img height="75" src="https://raw.githubusercontent.com/fsarikaya96/fsarikaya96/main/assets/laravel.png" style="max-width: 100%;"/></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/fsarikaya96/fsarikaya96/main/assets/livewire.png" style="max-width: 100%;"/></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/fsarikaya96/fsarikaya96/main/assets/codeigniter.png" style="max-width: 100%;"/></code> &nbsp;&nbsp;
 <code><img height="75" src="https://raw.githubusercontent.com/fsarikaya96/fsarikaya96/main/assets/java.png" style="max-width: 100%;"/></code> &nbsp;&nbsp;
 <code><img height="75" src="https://raw.githubusercontent.com/fsarikaya96/fsarikaya96/main/assets/react.png" style="max-width: 100%;"/></code> &nbsp;&nbsp;
 <code><img height="75" src="https://raw.githubusercontent.com/fsarikaya96/fsarikaya96/main/assets/js.png" style="max-width: 100%;"/></code> &nbsp;&nbsp;
